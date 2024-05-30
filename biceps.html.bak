@@ -1,0 +1,178 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bíceps</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  </head>
+  <body "font-family-base Helvetica Neue">
+    <nav class="navbar navbar-expand-lg bg-body-navbar-expand-lg bg-body-dark" style="background-color: #808080	;">
+  <div class="container-fluid">
+       <a class="navbar-brand text-danger h1   " href="#">CT Power Fit</a>
+	   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="home.html">Home</a>
+        </li>
+       
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Categorias
+          </a>
+          <ul class="dropdown-menu">
+		  		  <li><a class="dropdown-item" href="abdomen.html">Abdômen</a></li>
+	<li><a class="dropdown-item" href="biceps.html">Biceps</a></li>
+			<li><a class="dropdown-item" href="costa.html">Costa</a></li>
+		  	<li><a class="dropdown-item" href="gluteo.html">Glúteo</a></li>
+		    <li><a class="dropdown-item" href="ombro.html">Ombro </a></li>
+			 <li><a class="dropdown-item" href="panturrilha.html">Panturrilha</a></li>
+            <li><a class="dropdown-item" href="peito.html">Peito</a></li>
+			 <li><a class="dropdown-item" href="posterior.html">Posterior de Coxa </a></li>
+            <li><a class="dropdown-item" href="quadriceps.html">Quadriceps</a></li>
+            <li><a class="dropdown-item" href="triceps.html">Triceps</a></li>
+          </ul>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="suplementos.html">Comprar Suplementos</a>
+        </li>
+       <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="equipe.html">Equipe</a>
+        </li>
+       <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="historia.html">História</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Buscar</button>
+      </form>
+    </div>
+  </div>
+  <br>
+</nav>
+<div class="p-3 mb-2 bg-dark">
+<blockquote class="blockquote  text-light text-center" >
+<p class="h1"; ><strong> Exercícos para desenvolver bíceps</p></strong></p>
+</blockquote>
+ <div class="p-3 mb-2 bg-dark">
+<div id="carrosel" style="width: 100%; height: 100%;margin: 0 auto;  bg-dark">
+
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="biceps1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="biceps2.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="biceps3.jpg" class="d-block w-100">
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+</div> 
+</div>
+ <div class="p-3 mb-2 bg-dark">
+<blockquote class="blockquote text-light text-center" >
+<p class="h5"; ><strong> Para quem possui objetivos especiais em relação a uma parte do corpo, é importante conhecer exercícios que possam ajudar a atingir os objetivos. Pensando nisso, reunimos abaixo alguns dos melhores exercícios para bíceps.</p></strong></p>
+</blockquote>
+
+
+
+ <div class="p-3 mb-2 bg-dark">
+<div class="container text-center" style="margin-top; 3%;">
+  <div class="row align-items-start">
+    <div class="col">
+  <div class="card border-dark bg-secondary mb-3" style="width: 18rem;">
+  <img src="roscadireta.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Rosca bíceps direta 
+</h5>
+    <p class="card-text">Na rosca direta com barra reta, ao se utilizar a pegada fechada, o esforço será direcionado à parte externa dos bíceps.Durante a execução do exercício, o corpo deve estar na posição ereta, com a coluna reta.
+
+</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div> 	
+    </div>
+    <div class="col">  
+<div class="card border-dark bg-secondary mb-3" style="width: 18rem; ">
+  <img src="roscainclinada.jpg" class="card-img-top" alt="..." >
+  <div class="card-body text-light">
+    <h5 class="card-title">Rosca bíceps com halteres no banco inclinado</h5>
+    <p class="card-text">Este exercício trabalha mais da parte externa do bíceps braquialPara começar, deite-se de costas em um banco com uma inclinação de 45º. Deixe os joelhos dobrados, os pés no chão e os braços estendidos com um halter em cada mão..</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div>	
+    </div>
+    <div class="col">
+	<div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="roscascott.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title"> Rosca bíceps apoiado no banco Scott e com a barra EZ
+</h5>
+    <p class="card-text"> Este é um exercício de nível iniciante que trabalha a força do bíceps de maneira isolada. Para realizá-lo, é preciso ter acesso ao banco Scott e a uma barra EZ.Para pegar corretamente, recomenda-se que alguém dê a barra para você, ou que você a pegue do suporte para barras que os bancos Scott costumam ter.
+
+ </p>
+    <a href="#" class="btn btn-danger">Ver Exercício</a>
+  </div>
+</div>
+    </div>
+  </div>
+</div> 
+ <div class="container text-center" style="margin-top; 3%;">
+  <div class="row align-items-start">
+    <div class="col">
+  <div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="roscacabo.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Rosca bíceps no cabo e usando a corda
+</h5>
+    <p class="card-text"> A rosca com cabo é feita com uma corda curta que fica presa a uma polia baixa. Opcionalmente pode-se usar uma barra curta. Assim como acontece com a rosca direta com barra, se você usar uma pegada aberta, seu esforço será concentrado na parte interna do bíceps. Já se utilizar a pegada fechada, ele será direcionado à sua parte externa.
+
+</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div> 	
+    </div>
+    <div class="col">  
+<div class="card border-dark bg-secondary mb-3" style="width: 18rem; ">
+  <img src="roscauni.jpg" class="card-img-top" alt="..." >
+  <div class="card-body text-light">
+    <h5 class="card-title">Rosca bíceps concentrada unilateral com halter</h5>
+    <p class="card-text"> A rosca concentrada trabalha diretamente no bíceps. Além disso, se o movimento for realizado adequadamente, somente esse músculo será requisitado neste exercício.Isso faz com que a rosca concentrada seja um dos melhores exercícios para bíceps </p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div>	
+    </div>
+    <div class="col">
+	<div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="barrafixa.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Barra Fixa</h5>
+    <p class="card-text">Este é um exercício clássico para costas, mas também trabalha bastante os bíceps.Esse exercício fortalece bastante a parte superior do corpo, já que, além de trabalhar o bíceps, que é usado para puxar o peso do corpo, ele também atinge outros músculos superiores, com os ombros e as costas
+</p>
+    <a href="#" class="btn btn-danger">Ver Exercício</a>
+  </div>
+</div>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
+    
