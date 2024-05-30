@@ -1,0 +1,167 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Peito</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  </head>
+  <body "font-family-base Helvetica Neue">
+    <nav class="navbar navbar-expand-lg bg-body-navbar-expand-lg bg-body-dark" style="background-color: #808080	;">
+  <div class="container-fluid">
+    <a class="navbar-brand text-danger h1   " href="#">CT Power Fit</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="home.html">Home</a>
+        </li>
+       
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Categorias
+          </a>
+          <ul class="dropdown-menu">
+		  		  <li><a class="dropdown-item" href="abdomen.html">Abdômen</a></li>
+           	<li><a class="dropdown-item" href="biceps.html">Biceps</a></li>
+			<li><a class="dropdown-item" href="costa.html">Costa</a></li>
+		  	<li><a class="dropdown-item" href="gluteo.html">Glúteo</a></li>
+		    <li><a class="dropdown-item" href="ombro.html">Ombro </a></li>
+			 <li><a class="dropdown-item" href="panturrilha.html">Panturrilha</a></li>
+            <li><a class="dropdown-item" href="peito.html">Peito</a></li>
+			 <li><a class="dropdown-item" href="posterior.html">Posterior de Coxa </a></li>
+            <li><a class="dropdown-item" href="quadriceps.html">Quadriceps</a></li>
+            <li><a class="dropdown-item" href="triceps.html">Triceps</a></li>
+
+          </ul>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="suplementos.html">Comprar Suplementos</a>
+        </li>
+       <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="equipe.html">Equipe</a>
+        </li>
+       <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" href="historia.html">História</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
+        <button class="btn btn-outline-light" type="submit">Buscar</button>
+      </form>
+    </div>
+  </div>
+  <br>
+</nav>
+<div class="p-3 mb-2 bg-dark">
+<blockquote class="blockquote  text-light text-center" >
+<p class="h1"; ><strong> Exercícos para desenvolver o Peitoral</p></strong></p>
+</blockquote>
+<div class="p-3 mb-2 bg-dark">
+<div id="carrosel" style="width: 100%; height: 100%;margin: 0 auto;  bg-dark">
+
+<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="2000">
+      <img src="peito1.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="peito2.jpg" class="d-block w-100">
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <img src="peito3.jpg" class="d-block w-100">
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+</div> 
+</div>
+</div>
+ <div class="p-3 mb-2 bg-dark">
+<blockquote class="blockquote text-light text-center" >
+<p class="h5"; ><strong> Para quem possui objetivos especiais em relação a uma parte do corpo, é importante conhecer exercícios que possam ajudar a atingir os objetivos. Pensando nisso, reunimos abaixo alguns dos melhores exercícios para peito.</p></strong></p>
+</blockquote>
+
+ <div class="p-3 mb-2 bg-dark">
+
+<div class="container text-center" style="margin-top; 3%;">
+  <div class="row align-items-start">
+    <div class="col">
+  <div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="supino.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Supino</h5>
+    <p class="card-text">A prática de supino reto ou supino plano é de suma importância para quem está focado na musculação.A modalidade conhecida como supino reto, é o exercício que mais caracteriza o levantamento de peso.Definitivamente é um dos principais para quem deseja fortalecer ou ganhar massa muscular na região do peitoral.Para treinar grupos musculares entre eles, peitorais maiores; deltoide; coracobraquial e também tricípete braquial, o mecanismo do supino tem por objetivo ampliar a resistência muscular gradualmente.</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div> 	
+    </div>
+    <div class="col">  
+<div class="card border-dark bg-secondary mb-3" style="width: 18rem; ">
+  <img src="inclinado.jpg" class="card-img-top" alt="..." >
+  <div class="card-body text-light">
+    <h5 class="card-title">Supino Inclinado</h5>
+    <p class="card-text">O supino inclinado é um ótimo exercício para tornar o peitoral bem definido.Apesar de recrutar os mesmos músculos do supino reto com a inclinação estimula os músculos da parte de cima do peitoral com mais intensidade.Certamente,levantar a barra na posição inclinada exige mais esforço do que seria necessário horizonta,você não vai conseguir levantar a mesma carga usada no supino reto.Vale a pena incluir esse exercício na sua rotina pois trabalha os musculos de uma forma diferente</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div>	
+    </div>
+    <div class="col">
+	<div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="sm.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Supino na máquina </h5>
+    <p class="card-text"> O supino vertical, aquele feito em uma máquina sentado, é uma ótima alternativa para o trabalho de peitoral, usando-o como variação. O supino sentado, outro nome para o vertical, é uma possibilidade de trabalho para quem busca um estimulo diferenciado.Apesar de o movimento articular ser praticamente o mesmo do supino tradicional, o vertical apresenta algumas características, que se usadas corretamente, melhoram a qualidade e intensidade de seu treino.</p>
+    <a href="#" class="btn btn-danger">Ver Exercício</a>
+  </div>
+</div>
+    </div>
+  </div>
+</div> 
+ <div class="container text-center" style="margin-top; 3%;">
+  <div class="row align-items-start">
+    <div class="col">
+  <div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="cross.jpg" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Crossover</h5>
+    <p class="card-text">Também conhecido como cruzamento de cabos ou pulley cruzado, o exercício de CrossOver é um importante movimento do treino de peitoral.O Crossover é um dos exercícios mais adequados para este quesito, no treino de peitorais.Mas para que ele seja de fato efetivo, ele precisa ser realizado da maneira adequada e com a técnica certa.</p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div> 	
+    </div>
+    <div class="col">  
+<div class="card border-dark bg-secondary  mb-3" style="width: 18rem; ">
+  <img src="fixo.jpg" class="card-img-top" alt="..." >
+  <div class="card-body text-light">
+    <h5 class="card-title"> Crucifixo</h5>
+    <p class="card-text"> O crucifixo é uma boa opção para quem busca hipertrofia ou uma maior definição do peito. Isso porque os movimentos de adução e abdução dos ombros propostos pelo exercício têm um efeito bastante focado no principal músculo da região, o peitoral maior, contribuindo para um resultado ainda melhor.O principal objetivo de incluir o crucifixo no seu treino é fortalecer os músculos da parte superior do corpo </p>
+    <a href="#" class="btn btn-danger">Ver Exercicio</a>
+  </div>
+</div>	
+    </div>
+    <div class="col">
+	<div class="card border-dark bg-secondary  mb-3" style="width: 18rem;">
+  <img src="flexao.png" class="card-img-top" alt="...">
+  <div class="card-body text-light">
+    <h5 class="card-title">Flexão</h5>
+    <p class="card-text">Um exercício funcional, que fortalece muitos músculos ao mesmo tempo.Pois essas são características da clássica flexão de braços, que trabalha peito, tríceps, ombros, lombar e só necessita de um espaço no chão para ser realizada.Apesar de parecer simples,possui um certo grau de dificuldade, pois precisa manter as articulações e o tronco estabilizados ao mover o corpo.</p>
+    <a href="#" class="btn btn-danger">Ver Exercício</a>
+  </div>
+</div>
+    </div>
+  </div>
+  </div>
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
+    
